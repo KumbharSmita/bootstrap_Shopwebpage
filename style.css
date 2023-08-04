@@ -1,0 +1,209 @@
+.body{
+    font-family:'Times New Roman', Times, serif;
+
+}
+.nav-pills {
+    background-color:rgb(228, 242, 255) !important;
+    background-size: cover;
+}
+
+
+.nav-pills > li{
+    padding-left:80px;
+    padding-right:80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-item .nav-link {
+    font-weight: bold;
+    color: #0a0a0a;
+}
+
+.nav-item .nav-link.active {
+    background-color: rgb(236, 185, 47) ;
+    color:#FFF;
+  }
+
+
+.HeroText h1{
+    padding-top: 30px;
+    font-size: 75px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.HeroText {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    color: aliceblue;
+}
+.Brandimg{
+    width: 200px;
+    height: 200px;
+}
+.card {
+    border: none;
+  }
+
+.info{
+    margin: top 50px;
+}
+.far1{
+    background-color: rgb(238, 248, 255);
+    padding-bottom: 40px;
+}
+.far2{
+    background-color: rgb(255, 248, 240);
+    padding-bottom: 40px;
+
+}
+.Brand-image{
+    
+    padding-bottom: 50px;
+}
+.product h5,h1{
+    padding-top:50px;
+    padding-bottom: 50px;
+    color: rgb(18, 7, 7);
+}
+.product h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.Brand{
+    
+    padding-top:50px;
+    padding-bottom: 50px;
+
+}
+.Brand h1{
+    
+    font-size:50px;
+    font-weight: bold;
+}
+/* .carousel-inner{
+     height: 700px;
+} */
+/* .item, img{
+    height: 100% !important;
+    width:  100% !important;
+    /* border: 1px solid red; */
+ */
+.carousel-item{
+    height: 700px;
+    
+} 
+.carousel-item img{
+    height: 700px;
+    filter:brightness(0.5) ;
+    -webkit-filter:brightness(0.5) ;
+}
+.carousel-caption h1 {
+    font-family:    Garamond;
+    font-size:      5em;
+    font-weight: bold;
+    color:          rgb(255, 255, 255) !important;
+    }
+.carousel-caption h3 {
+    font-family:    Garamond;
+    font-size:      2em;
+    font-weight: bold;
+    color:          rgb(223, 223, 232) !important;
+    }
+    .carousel-caption p {
+        font-family:    Garamond;
+        font-size:      2em;
+        color:          rgb(223, 223, 232) !important;
+        }
+
+/* about us page */
+
+.cont11 h1{
+    background-image: url(fertilizerbrans/about.jpg);
+   
+    filter: brightness(0.5);
+    filter: contrast(1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    padding-top: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    -webkit-filter: brightness(0.5);
+}
+.about1 h1{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    color: brown;
+    font-weight: bold;
+}
+.about1 h3{
+    color: rgb(18, 135, 35);
+
+}
+
+.far3{
+   
+    padding-bottom: 40px;
+    
+}
+.far3 h2{
+    color: brown;
+    font-weight: bold;
+
+}
+.far4{
+    background-color: rgb(255, 248, 240);
+    padding-bottom: 40px;
+
+}
+.demo{
+    background-color: antiquewhite;
+}
+
+/* contact us page code */
+
+.cont h1{
+    background-image: url(fertilizerbrans/Contact\ background.jpg);
+    filter: brightness(0.8);
+    filter: contrast();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    padding-top: 300px;
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    -webkit-filter: brightness(0.8);
+}
+.cont1
+{
+    background-color: rgb(207, 255, 255);
+    border-style: none;
+    padding: 20px;
+    
+    
+}
+.const4{
+    
+    padding: 20px;
+    padding-left: 200px;
+
+}
+.faq{
+ /* margin-top: 40px; */
+ padding-left: 150px;
+ padding-right: 150px;
+ padding-top: 10px;
+ padding-bottom: 50px;
+ margin-top: 20px;
+ background-color: rgb(255, 241, 247);
+
+}
